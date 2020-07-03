@@ -1,5 +1,9 @@
 # How to use it
-txt
+1. Clone https://github.com/EIDA/routing
+1. Copy contents of this repository into directory containing routing service
+1. Go to the directory containing routing service
+1. Run `docker-compose up -d`
+1. Add crontab entry to update the service autimatically (see below) or `docker exec -it routing_eida_routing_1 bash` and run it manually
 
 # Crontab entry on the host
 Please keep in mind that container name (`routing_eida_routing_1`) migh change.
