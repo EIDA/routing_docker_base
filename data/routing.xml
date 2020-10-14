@@ -16,9 +16,9 @@
 		<ns0:wfcatalog address="http://www.orfeus-eu.org/eidaws/wfcatalog/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
 	</ns0:route>
 	<ns0:route networkCode="AI" stationCode="*" locationCode="*" streamCode="*">
-		<ns0:station address="http://www.orfeus-eu.org/fdsnws/station/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
-		<ns0:dataselect address="http://www.orfeus-eu.org/fdsnws/dataselect/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
-		<ns0:wfcatalog address="http://www.orfeus-eu.org/eidaws/wfcatalog/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
+		<ns0:station address="http://www.orfeus-eu.org/fdsnws/station/1/query" priority="2" start="1980-01-01T00:00:00" end="" />
+		<ns0:dataselect address="http://www.orfeus-eu.org/fdsnws/dataselect/1/query" priority="2" start="1980-01-01T00:00:00" end="" />
+		<ns0:wfcatalog address="http://www.orfeus-eu.org/eidaws/wfcatalog/1/query" priority="2" start="1980-01-01T00:00:00" end="" />
 	</ns0:route>
 	<ns0:route networkCode="BE" stationCode="*" locationCode="*" streamCode="*">
 		<ns0:station address="http://www.orfeus-eu.org/fdsnws/station/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
@@ -61,9 +61,9 @@
 		<ns0:wfcatalog address="http://www.orfeus-eu.org/eidaws/wfcatalog/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
 	</ns0:route>
 	<ns0:route networkCode="GO" stationCode="*" locationCode="*" streamCode="*">
-		<ns0:station address="http://www.orfeus-eu.org/fdsnws/station/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
-		<ns0:dataselect address="http://www.orfeus-eu.org/fdsnws/dataselect/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
-		<ns0:wfcatalog address="http://www.orfeus-eu.org/eidaws/wfcatalog/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
+		<ns0:station address="http://www.orfeus-eu.org/fdsnws/station/1/query" priority="2" start="1980-01-01T00:00:00" end="" />
+		<ns0:dataselect address="http://www.orfeus-eu.org/fdsnws/dataselect/1/query" priority="2" start="1980-01-01T00:00:00" end="" />
+		<ns0:wfcatalog address="http://www.orfeus-eu.org/eidaws/wfcatalog/1/query" priority="2" start="1980-01-01T00:00:00" end="" />
 	</ns0:route>
 	<ns0:route networkCode="HF" stationCode="*" locationCode="*" streamCode="*">
 		<ns0:station address="http://www.orfeus-eu.org/fdsnws/station/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
@@ -191,9 +191,9 @@
 		<ns0:wfcatalog address="http://www.orfeus-eu.org/eidaws/wfcatalog/1/query" priority="1" start="1980-01-01T00:00:00" end="" />
 	</ns0:route>
 	<ns0:route networkCode="YF" stationCode="*" locationCode="*" streamCode="*">
-		<ns0:station address="http://www.orfeus-eu.org/fdsnws/station/1/query" priority="1" start="1980-01-01T00:00:00" end="2002-04-02T23:59:59" />
-		<ns0:dataselect address="http://www.orfeus-eu.org/fdsnws/dataselect/1/query" priority="1" start="1980-01-01T00:00:00" end="2002-04-02T23:59:59" />
-		<ns0:wfcatalog address="http://www.orfeus-eu.org/eidaws/wfcatalog/1/query" priority="1" start="1980-01-01T00:00:00" end="2002-04-02T23:59:59" />
+		<ns0:station address="http://www.orfeus-eu.org/fdsnws/station/1/query" priority="2" start="1980-01-01T00:00:00" end="2002-04-02T23:59:59" />
+		<ns0:dataselect address="http://www.orfeus-eu.org/fdsnws/dataselect/1/query" priority="2" start="1980-01-01T00:00:00" end="2002-04-02T23:59:59" />
+		<ns0:wfcatalog address="http://www.orfeus-eu.org/eidaws/wfcatalog/1/query" priority="2" start="1980-01-01T00:00:00" end="2002-04-02T23:59:59" />
 	</ns0:route>
 	<ns0:route networkCode="Z3" stationCode="A001A" locationCode="*" streamCode="*">
 		<ns0:station address="http://www.orfeus-eu.org/fdsnws/station/1/query" priority="1" start="2015-01-01T00:00:00" end="" />
