@@ -1,4 +1,4 @@
-FROM phusion/baseimage:master
+FROM ubuntu:16.04
 
 
 # Initialize
