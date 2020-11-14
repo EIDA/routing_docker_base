@@ -1,4 +1,5 @@
-FROM phusion/baseimage:latest
+FROM phusion/baseimage:master
+
 
 # Initialize
 CMD ["/sbin/my_init"]
