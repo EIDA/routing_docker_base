@@ -5,13 +5,4 @@ services:
     build: .
     ports:
       - "9000:9000"
-    volumes:
-      - ./:/data/routing
-    networks:
-      - eida_routing_net
     command: uwsgi --ini /data/routing/uwsgi.ini
-
-networks:
-  eida_routing_net:
-
-# docker-compose up -d
